@@ -1,4 +1,4 @@
-# ML Classification: Customer-Churn
+# ML Classification: Customer Churn
 
 * Used a **Logistic Regression** algorithm that predicts if clients will stay with the company (**Log loss 60%**), given Tenure, Age, Address, Income, Education, Employment and Equip.
 * **Pre-Processed** the data by filtering for the most appropriate variables.
